@@ -1,0 +1,32 @@
+{
+  "name": "mhsalves.github.io",
+  "version": "0.1.0",
+  "description": "My Website Portifolio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next src",
+    "build": "next build src",
+    "start": "next start src",
+    "export": "next export src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhsalves/mhsalves.github.io.git"
+  },
+  "keywords": [
+    "my",
+    "website",
+    "portifolio"
+  ],
+  "author": "Matheus Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhsalves/mhsalves.github.io/issues"
+  },
+  "homepage": "https://github.com/mhsalves/mhsalves.github.io#readme",
+  "dependencies": {
+    "next": "9.1.1",
+    "react": "16.10.2",
+    "react-dom": "16.10.2"
+  }
+}
