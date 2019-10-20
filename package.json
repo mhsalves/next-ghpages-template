@@ -1,0 +1,24 @@
+{
+  "name": "mhsalves.github.io",
+  "version": "0.1.0",
+  "description": "My Website Portifolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhsalves/mhsalves.github.io.git"
+  },
+  "keywords": [
+    "my",
+    "website",
+    "portifolio"
+  ],
+  "author": "Matheus Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhsalves/mhsalves.github.io/issues"
+  },
+  "homepage": "https://github.com/mhsalves/mhsalves.github.io#readme"
+}
