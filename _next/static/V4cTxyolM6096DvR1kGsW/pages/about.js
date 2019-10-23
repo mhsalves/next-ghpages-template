@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"9hcB":function(n,o,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/about",function(){return u("vBwC")}])},vBwC:function(n,o,u){"use strict";u.r(o);var e=u("mXGw"),t=u.n(e).a.createElement;o.default=function(){return t("div",null,t("h1",null,"Hello World ! (About)"),t("a",{href:""},"Ir para Home"))}}},[["9hcB",1,0]]]);

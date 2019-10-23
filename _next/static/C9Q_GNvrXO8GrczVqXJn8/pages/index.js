@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{cMU6:function(n,o,u){"use strict";u.r(o);var e=u("mXGw"),t=u.n(e).a.createElement;o.default=function(){return t("div",null,t("h1",null,"Hello World ! (Home)"),t("a",{href:"about"},"Ir para About"))}},mJN6:function(n,o,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/",function(){return u("cMU6")}])}},[["mJN6",1,0]]]);
