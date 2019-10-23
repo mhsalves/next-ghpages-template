@@ -1,9 +1,9 @@
-# mhsalves.github.io
-My Website Portifolio
+# next-ghpages-template
+A template for clients should use the Github Pages, React and SSR using [NextJS](https://nextjs.org/).
 
-### This project uses the follow dependencies
+## This project uses the main follow dependencies
 
-- [NextJS](https://nextjs.org/) as React Framework for SSR. (Details in [mhsalves.github.io#2](https://github.com/mhsalves/mhsalves.github.io/pull/2))
+- [NextJS](https://nextjs.org/) as React Framework for SSR. (Details in [next-ghpages-template#2](https://github.com/mhsalves/next-ghpages-template/pull/2))
 
 
 ## Docs
