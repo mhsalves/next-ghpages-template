@@ -1,15 +1,14 @@
 {
-  "name": "mhsalves.github.io",
+  "name": "next-ghpages-template",
   "version": "0.1.0",
-  "description": "My Website Portifolio",
-  "main": "index.js",
+  "description": "A template for clients should use the Github Pages, React and SSR using NextJS.",
   "scripts": {
     "dev": "next src",
     "build": "next build src",
     "start": "next start src",
     "export": "next export -o out/ src",
     "deploy:export": "npm run build && npm run export",
-    "deploy:setup": "touch out/.nojekyll && touch out/CNAME && echo \"matheusalves.dev\" >> out/CNAME",
+    "deploy:setup": "touch out/.nojekyll",
     "deploy:commit": "git add out/ && git commit -m \"deploy: new features\"",
     "deploy:stage": "git subtree split --prefix out -b deploy/stage",
     "deploy:push": "git push origin deploy/stage:gh-pages --force-with-lease",
