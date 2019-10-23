@@ -1,8 +1,7 @@
 {
-  "name": "mhsalves.github.io",
+  "name": "next-ghpages-template",
   "version": "0.1.0",
-  "description": "My Website Portifolio",
-  "main": "index.js",
+  "description": "A template for clients should use the Github Pages, React and SSR using NextJS.",
   "scripts": {
     "dev": "next src",
     "build": "next build src",
